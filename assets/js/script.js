@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Er. Aashutosh Chaudhary";
+            document.title = "Portfolio | Suraj Tamang";
             $("#favicon").attr("href", "assets/images/hero2.png");
         }
         else {
