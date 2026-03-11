@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Isolation Office LAB",
+    "desc": "The network provides essential services like user authentication, DNS, email, and web hosting. A Kali Linux machine is used for penetration testing, and a WAF protects web a>
+    "image": "sppuprepandroid",
+    "category": "security",
+    "links": {
+      "view": "https://github.com/suraj-1325/Isolate-Enterprise-Architecture/blob/main/lab.drawio.png",
+      "code": "https://github.com/suraj-1325/Isolate-Enterprise-Architecture"
+    }
+  },
+  {
+    "name": "Threat Intelligence Integration in Wazuh",
+    "desc": "Integrated OpenCTI and MISP with Wazuh to enhance threat intelligence capabilities. Core switch SPAN/mirror traffic is forwarded to Zeek IDS, analyzed and converted into JSO>
+    "image": "notystackandroid",
+    "category": "security",
+    "links": {
+      "view": "https://github.com/suraj-1325/wazuh-opencti-and-misp",
+      "code": "https://github.com/suraj-1325/wazuh-opencti-and-misp"
+    }
+  }
+]
